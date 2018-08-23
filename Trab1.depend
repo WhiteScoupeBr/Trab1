@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1535026060 source:c:\users\jpcos\onedrive\documentos\utfpr\estrutura de dados\trab1\main.cpp
+	<iostream>
+	<cstdlib>
+	"Lista.h"
+	<fstream>
+	<string>
+	<sstream>
+
+1534608990 c:\users\jpcos\onedrive\documentos\utfpr\estrutura de dados\trab1\lista.h
+	<iostream>
+
+1534609315 source:c:\users\jpcos\onedrive\documentos\utfpr\estrutura de dados\trab1\lista.cpp
+	<cstdlib>
+	<iostream>
+	"Lista.h"
+
